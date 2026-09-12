@@ -1,0 +1,6 @@
+{
+  "name": "Ganesh Utsav - Live Committee Portal",
+  "description": "Live Ganesh Utsav management portal with dynamic fields, OTP admin access, expense tracking, and live projector display for Telugu festival committees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
